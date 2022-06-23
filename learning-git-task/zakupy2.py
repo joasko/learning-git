@@ -10,3 +10,9 @@ for sklep, produkty in sklepy.items():
 print(f"W sumie: {count}")
 
 Print("Zakupy wykonane")
+
+
+Print("sporządzić kolejną listę zakupów na nowy tydzień")
+    
+ 
+    

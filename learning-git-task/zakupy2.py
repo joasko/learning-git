@@ -15,5 +15,5 @@ Print("Zakupy wykonane")
 
 Print("sporządzić kolejną listę zakupów na nowy tydzień")
     
- 
+ # dodany nowy branch, ciekawe czy go mentor widzi, dodałam go inaczej niż mówiła instrukcja - bezpośrednio z github
     

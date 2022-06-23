@@ -1,6 +1,7 @@
 sklepy = {
     "warzywniak": ["marchew", "seler", "rukola"],
-    "piekarnia": ["chleb", "pączek", "bułki"]
+    "piekarnia": ["chleb", "pączek", "bułki"],
+    "ogrodniczy": ["grabie", "ziemia", "nawóz"]
 }
 count = 0
 
